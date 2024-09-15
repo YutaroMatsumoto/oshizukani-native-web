@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "82dbb600-031a-4a54-9b82-fcb3d92a01da"
+      }
+    },
+    "owner": "yutaro.matsumoto"
   }
 }
